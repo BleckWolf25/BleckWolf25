@@ -15,7 +15,6 @@ I'm a versatile developer and executive leader with a strong background in both 
 - 🌍 Based in Portugal, open to global collaborations
 - 🏆 Founder & CEO at [Dynamic Innovative Studio](https://dynamic-innovative-studio.firebaseapp.com/)
 - 💼 2+ years experience | 34+ technologies used
-- 💬 Let's connect: [coutinho4gaming@gmail.com](mailto:coutinho4gaming@gmail.com) | [joao.coutinho08@icloud.com](mailto:joao.coutinho08@icloud.com)
 
 ---
 
