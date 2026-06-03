@@ -4,7 +4,7 @@
 
 > _Hello, world! I am João Costa._
 
-📧 [joao.coutinho08@gmail.com](mailto:joao.coutinho08@gmail.com) · 🐙 [GitHub](https://github.com/BleckWolf25) · 🌐 [joaoccosta.vercel.app](https://joaoccosta.vercel.app)
+📧 [joao.coutinho08@gmail.com](mailto:joao.coutinho08@gmail.com) · 🐙 [GitHub](https://github.com/BleckWolf25) · 🌐 [joaoccosta.vercel.app](https://joaocosta-portfolio.vercel.app)
 
 ---
 
