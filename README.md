@@ -32,141 +32,7 @@ Scalable back-end systems, bespoke CRMs, and internal tools engineered for relia
 
 Custom engines and game prototypes with an emphasis on performance, ECS architecture, and immersive logic.
 
----
-
-## 03. Technologies & Skills
-
-### Programming Languages
-
-| Skill      | Level      |
-| ---------- | ---------- |
-| C          | Familiar   |
-| C#         | Familiar   |
-| C++        | Proficient |
-| Java       | Learning   |
-| JavaScript | Proficient |
-| Lua        | Proficient |
-| PHP        | Familiar   |
-| Python     | Proficient |
-| Rust       | Learning   |
-| Svelte     | Learning   |
-| Swift      | Learning   |
-| TypeScript | Proficient |
-
-### Automation & Scripting
-
-| Skill        | Level      |
-| ------------ | ---------- |
-| Bash Script  | Proficient |
-| Batch Script | Familiar   |
-
-### Frameworks & Libraries
-
-| Skill         | Level      |
-| ------------- | ---------- |
-| .NET          | Familiar   |
-| Angular       | Familiar   |
-| Electron      | Familiar   |
-| Express       | Familiar   |
-| Framer Motion | Familiar   |
-| NestJS        | Familiar   |
-| Next.js       | Proficient |
-| Nuxt.js       | Proficient |
-| React         | Proficient |
-| Tauri         | Familiar   |
-| Vue.js        | Proficient |
-
-### Design & Styling
-
-| Skill        | Level      |
-| ------------ | ---------- |
-| Bootstrap    | Familiar   |
-| CSS3         | Proficient |
-| HTML5        | Proficient |
-| Sass         | Familiar   |
-| Tailwind CSS | Proficient |
-
-### Dev Tools
-
-| Skill        | Level      |
-| ------------ | ---------- |
-| CMake        | Familiar   |
-| EditorConfig | Proficient |
-| ESLint       | Proficient |
-| Git          | Proficient |
-| GitHub       | Proficient |
-| GitLab       | Familiar   |
-| Prettier     | Proficient |
-| Replit       | Familiar   |
-| Turbo Repo   | Familiar   |
-| Vite         | Proficient |
-| Vitest       | Proficient |
-
-### Databases & Backend
-
-| Skill           | Level      |
-| --------------- | ---------- |
-| DBeaver         | Familiar   |
-| Firebase        | Proficient |
-| MongoDB         | Familiar   |
-| MySQL           | Familiar   |
-| MySQL Workbench | Familiar   |
-| PostgreSQL      | Proficient |
-| Prisma          | Proficient |
-| Redis           | Learning   |
-| SQLite          | Familiar   |
-| Supabase        | Learning   |
-
-### Runtimes & Environments
-
-| Skill   | Level      |
-| ------- | ---------- |
-| Apache  | Familiar   |
-| Docker  | Proficient |
-| Node.js | Proficient |
-| npm     | Proficient |
-| pnpm    | Proficient |
-| Vercel  | Proficient |
-| yarn    | Proficient |
-
-### IDEs
-
-| Skill         | Level      |
-| ------------- | ---------- |
-| JetBrains     | Familiar   |
-| VS Code       | Proficient |
-| Visual Studio | Familiar   |
-| Replit IDE    | Familiar   |
-| Zed           | Proficient |
-
-### Agentic Dev Environments
-
-| Skill           | Level      |
-| --------------- | ---------- |
-| Antigravity IDE | Proficient |
-| Cursor          | Familiar   |
-| Kiro            | Proficient |
-
-### Game Dev
-
-| Skill         | Level      |
-| ------------- | ---------- |
-| Godot         | Learning   |
-| Unity         | Familiar   |
-| Unreal Engine | Familiar   |
-| Roblox Studio | Proficient |
-
-### Operating Systems
-
-| Skill   | Level      |
-| ------- | ---------- |
-| Linux   | Familiar   |
-| macOS   | Proficient |
-| Windows | Proficient |
-
----
-
-## 04. Featured Projects
+## 03. Featured Projects
 
 ### The Great Calculator v3
 
@@ -227,7 +93,7 @@ A project management desktop application with local-first design, built using El
 
 ---
 
-## 05. Professional Experience
+## 04. Professional Experience
 
 ### Founder & Lead Developer - Selkira Inc
 
@@ -245,64 +111,7 @@ Designed and developed a professional web presence for a private client, coverin
 
 ---
 
-## 06. Soft Skills
-
-### 💬 Communication
-
-| Phase         | Detail                                                                                                                                 |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A stalled project left a client frustrated because they couldn't clearly explain what they wanted.                                     |
-| **Task**      | I needed to translate their business goals into clear steps that the development team could actually build.                            |
-| **Action**    | I ran a kickoff session to map out their ideas visually, creating a quick prototype so they could see and approve the direction early. |
-| **Result**    | The project restarted smoothly, revision cycles dropped, and we delivered exactly what the client expected on time.                    |
-
----
-
-### 💡 Problem Solving
-
-| Phase         | Detail                                                                                                                                          |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | Two days before a product presentation, a major performance issue slowed down the project down to an unusable speed.                            |
-| **Task**      | I had to find the root cause, fix it safely under a tight deadline.                                                                             |
-| **Action**    | I isolated both frontend and backend bottlenecks, optimized the slowest elements, and sped up data loading.                                     |
-| **Result**    | Software loading times dropped significantly, the product presentation was delivered right on schedule, and the presentation was well-received. |
-
----
-
-### 👥 Teamwork
-
-| Phase         | Detail                                                                                                                |
-| ------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | Our cross-functional team was working across different time zones with a tight three-week deadline.                   |
-| **Task**      | I needed to coordinate tasks so design, backend, and frontend work synced up without anyone getting blocked.          |
-| **Action**    | I set up a shared board for clear tracking, managed daily asynchronous updates, and stepped in to cover design tasks. |
-| **Result**    | We hit the deadline without cutting corners, and the client liked the final product.                                  |
-
----
-
-### 🔄 Adaptability
-
-| Phase         | Detail                                                                                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | Midway through development, the client completely shifted their product goals and requested a feature that wasn't possible with the current technology stack. |
-| **Task**      | I had to quickly pivot the plan, learn the new tools, and keep the project moving forward without losing momentum.                                            |
-| **Action**    | I spent a weekend rebuilding the project foundations using the new approach, and transparently adjusted the timeline.                                         |
-| **Result**    | We completed the transition with minimal delay, and the new setup actually made the final product faster and easier to maintain.                              |
-
----
-
-### ✨ Creative Thinking
-
-| Phase         | Detail                                                                                                                              |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Situation** | A client needed a dynamic, interactive product catalog but had zero budget for complex backend systems or platforms.                |
-| **Task**      | I needed to build something polished and easy for them to update, without expensive infrastructure costs.                           |
-| **Action**    | I designed a lightweight solution that generated the site automatically from a single, simple data file.                            |
-| **Result**    | The client could easily update their content for free, the site loaded instantly, and they were happy enough to refer new business. |
-
----
-
-## 07. Hobbies & Interests
+## 05. Hobbies & Interests
 
 **🎮 Gaming** - Exploring virtual worlds and analyzing game mechanics, which fuels my passion for game development.
 
@@ -312,7 +121,7 @@ Designed and developed a professional web presence for a private client, coverin
 
 ---
 
-## 08. Let's Build Something Together
+## 06. Let's Build Something Together
 
 My inbox is always open. Whether you have a question, a project proposal, or just want to say hi, I'll try my best to get back to you!
 
